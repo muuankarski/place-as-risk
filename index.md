@@ -10,7 +10,9 @@ Lecture on class: *Living with Risk: Post-Soviet Welfare State and Daily Life Un
 October 21, 2014
 
 [Markus Kainu](http://markuskainu.fi) </br>
-*PhD Candidate* </br> 
+`PhD Candidate` </br> 
+*"A quantitatively orientated social scientist specialized in poverty and inequalities in post-socialist space, and in open source software carpentry"*
+
 
 
 
@@ -22,7 +24,10 @@ Outline
 - Introduction - Statement of purpose 
 - Core Concepts
 - Sociological/social policy research of inequality/poverty - note on spatiality
-- Regional inequality in Russian & use of Russian data
+- Case: Studying Regional inequality in Russian
+    - Russian data
+    - Research Software Carpentry
+    - Methods
 
 
 Readings
@@ -139,22 +144,26 @@ Demand for functional regions
 ## Functional region from social policy perspective?
 
 
-Why spatial dimension is neglegted
 ====
+## Why spatial dimension is neglegted
 
-## Spatial differences small
+### Spatial differences small
 
 - regional equality
 - short distances
 - good connections
 - political will in levelling spatial 
 
-## Challanges in research
+### Challanges in research
 
 - Socially & demographically representative data can be collected, but spatially representative data is expensive and has several privacy issues
 - Analytical tools have been scarce and expensive
 - proper data is still hard to get
 
+## Why it is buzzed about?
+
+- GPS chips everywhere, geospatial data everywhere (BIG data/MY data)
+- New exciting technologies for presenting and analysing geospatial data
 
 
 
@@ -216,6 +225,21 @@ Analysing regional disparities in welfare in Russia
 
 - ![](hadley_proces.png)
     - [Engineering data analysis - Hadley Wickham](http://vita.had.co.nz/papers/engineering-da.pdf)
+
+
+Method
+====
+
+[Qualitative comparative analysis](http://en.wikipedia.org/wiki/Qualitative_comparative_analysis)
+
+
+-  listing and counting all the combinations of variables observed in the data set, and then applying the rules of logical inference to determine which descriptive inferences or implications the data supports.
+- For instance, if the presence of conditions A and B is always associated with the presence of a particular value of D, regardless of the observed value of C, then the value that C takes is irrelevant. Thus, all five inferences involving A and B and any of the five values of C may be replaced by the single descriptive inference "(A and B) implies the particular value of D".
+- With this method & application we must
+    - enrich the data from statistics, but also rough charactarisations from other sources
+        - governance, warfare/welfare, equal/unequal, muslim/orthodox, big/small
+    - If we want to explain good health/equal incomes/good housing 
+
 
 
 Conclusions
