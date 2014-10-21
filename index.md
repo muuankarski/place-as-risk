@@ -171,7 +171,7 @@ Demand for functional regions
 ====
 type: subsection
 
-<h1>Regional inequality in Russian & use of Russian data</h1>
+<h1>Case: Studying Regional inequality in Russian</h1>
 
 
 Post-socialist transition & inequalities
@@ -183,6 +183,7 @@ Post-socialist transition & inequalities
 - Spatial structure of Global economic system is based on economic reasoning
     - Approximity to factors of production - land, labour and capital
     - Approximity to markets
+    - Foreign Direct Investments are placed in elsewhere than Soviet monotowns
 
 
 Selected socio-economic indicators in Russian Regions
